@@ -35,7 +35,8 @@ Experience the simplicity of sending emails with our Python Mail Application. Th
 
 
 ## ScreenShot
-https://github.com/administrator91/CodeClause_MailApplication/assets/143781304/1653b1d4-24bd-43ed-8d03-0f94687acc85
+![mail application](https://github.com/administrator91/CodeClause_MailApplication/assets/143781304/1653b1d4-24bd-43ed-8d03-0f94687acc85)
+
 
 
 ## Demo
