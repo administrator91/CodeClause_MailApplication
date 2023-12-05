@@ -34,6 +34,10 @@ Experience the simplicity of sending emails with our Python Mail Application. Th
    - Click the "Send Email" button to dispatch your email securely and efficiently.
 
 
+## ScreenShot
+https://github.com/administrator91/CodeClause_MailApplication/assets/143781304/1653b1d4-24bd-43ed-8d03-0f94687acc85
+
+
 ## Demo
 https://github.com/administrator91/CodeClause_MailApplication/assets/143781304/ef7c7cf5-df12-412c-843b-4a5129a13cec
 
