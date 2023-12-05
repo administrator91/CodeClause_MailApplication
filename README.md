@@ -6,7 +6,7 @@ Experience the simplicity of sending emails with our Python Mail Application. Th
 1. **User-Friendly Interface:**
    - A clean and intuitive GUI for a seamless email-sending experience.
 2. **Secure Authentication:**
-   - Input your Gmail email address and application password for secure authentication.
+   - Input your Gmail address and application password for secure authentication.
 3. **Effortless Recipient Selection:**
    - Enter the recipient's email address easily to ensure your message reaches the right inbox.
 4. **Subject and Message:**
